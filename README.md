@@ -2,6 +2,7 @@
 -------------------------------
 My name is Sarah. I've just started my self-taught journey into Web Development. I'm still a greenhorn right now but hope to expand my knowledge.
 
+  - Based in the US
 <!--
 **sfujihara01/sfujihara01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
